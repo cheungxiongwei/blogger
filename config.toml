@@ -1,0 +1,4 @@
+baseURL = "https://cheungxiongwei.github.io/"
+languageCode = "zh-cn"
+title = ">$ cd /home/"
+theme = "contrast-hugo"
